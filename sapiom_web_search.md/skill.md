@@ -355,4 +355,4 @@ price endpoints: `POST /v1/search/price` (Linkup) or `POST /v1/search/price` (Yo
 
 ## Full API Reference
 
-→ [references/search-api.md](references/search-api.md)
+→ [references/search_api.md](references/search_api.md)
